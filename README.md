@@ -20,3 +20,5 @@ Traceroute is a network diagnostic tool used to trace the path that data packets
 
 #### Why sudo?
 Sending raw ICMP packets requires root (administrator) privileges on most operating systems.
+
+Project idea: https://github.com/aerosouund/go-tracert/tree/master
